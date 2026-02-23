@@ -1,2 +1,2 @@
 # financiamento
-calculo der finaciamento de veiculos
+calculo de finaciamento de veiculos
